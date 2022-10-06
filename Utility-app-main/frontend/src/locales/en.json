@@ -1,0 +1,38 @@
+{
+  "dashboard": {
+    "completedTasks": "Completed Tasks",
+    "dailySales": "Daily Sales",
+    "performance": "Performance",
+    "simpleTable": "Simple Table",
+    "totalShipments": "Total",
+    "monthlyConsumption":"Monthly Consumption ($)",
+    "monthlyUtilConsumption":"Current Consumption",
+    "electricityBreakdown" : "Electricity Breakdown",
+    "waterBreakdown" : "Water Breakdown",
+    "gasBreakdown" : "Gas Breakdown",
+    "chartCategories": [
+      "Electricity",
+      "Water",
+      "Gas"
+    ],
+    "tasks": "Tasks({count})",
+    "today": "Today",
+    "dropdown": {
+      "action": "Action",
+      "anotherAction": "Another Action",
+      "somethingElse": "Something else"
+    },
+    "usersTable": {
+      "title": "Simple Table",
+      "columns": [],
+      "data": []
+    },
+    "taskList": []
+  },
+  "sidebar": {
+    "title": "UT Buddy",
+    "shortTitle": "UT",
+    "dashboard": "dashboard",
+    "userProfile": "User Profile"
+  }
+}
