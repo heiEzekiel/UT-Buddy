@@ -1,6 +1,7 @@
 # UT Buddy
 A project for IS216 - Web Application Development II
-A household utility tracking web application.
+
+A household utility tracking web application
 
 Frontend URL:
 https://main.d3gzi5eplp517x.amplifyapp.com/#/index.html
