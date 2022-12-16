@@ -1,3 +1,6 @@
+Merger of this repository with backend services: <br/>
+https://github.com/WADII-G4T4/utbuddy_frontend_deploy <br/>
+
 # UT Buddy
 A project for IS216 - Web Application Development II
 
